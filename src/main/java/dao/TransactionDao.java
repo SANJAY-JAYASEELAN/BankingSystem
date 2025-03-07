@@ -11,7 +11,7 @@ public class TransactionDao {
 	private static final Logger logger = Logger.getLogger(TransactionDao.class.getName());
 	private final String URL = "jdbc:mysql://localhost:3306/bank";
 	private final String USER_NAME = "root";
-	private final String PASSWORD = "30113011@JSV";
+	private final String PASSWORD = "";
 	
 	
 	public Connection getConnection() {
