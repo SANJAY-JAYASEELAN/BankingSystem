@@ -7,7 +7,7 @@ import java.sql.*;
 public class AccountDao {
 	private final String URL = "jdbc:mysql://127.0.0.1:3306/bank";
 	private final String USER_NAME = "root";
-	private final String PASSWORD = "30113011@JSV";
+	private final String PASSWORD = "";
 	
 	
 	public Connection getConnection() {
